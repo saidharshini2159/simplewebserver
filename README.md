@@ -124,10 +124,10 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 webpage
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/87f4cc3e-f054-4a56-a3be-10bc0108423f" />
+![alt text](<Screenshot (20).png>)
 
 serverpage
-![alt text](image-1.png)
+![alt text](<Screenshot (21).png>)
 
 
 ## RESULT:
