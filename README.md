@@ -127,7 +127,7 @@ webpage
 <img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/87f4cc3e-f054-4a56-a3be-10bc0108423f" />
 
 serverpage
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 ## RESULT:
